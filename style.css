@@ -1,0 +1,42 @@
+
+body{
+    background-color: pink;
+    background-image: url(./img/bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+fieldset{
+    border-width: 1px;
+    border-color: blue;
+    border-radius: 30px;
+}
+
+legend{
+    padding: 10px;
+    color: black;
+    font-weight: bold;
+    font-size: 14pt;
+}
+
+tr.item:hover{
+    background-color: pink;
+    font-size: 15pt;
+    font-weight: bold;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding: 10px;
+    color: aqua;
+}
+
+a.item{
+    text-decoration: none;
+    display: block;
+    float: left;
+}
+
+font{
+    background-color: pink;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+    font-size: 17pt;
+}
